@@ -1,0 +1,5 @@
+httpx
+fastmcp
+python-dotenv
+mcp
+ollama
